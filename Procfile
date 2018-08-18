@@ -1,1 +1,1 @@
-web: gunicorn tchelinux.wsgi --log-file
+web: gunicorn tchelinux.wsgi --log-file -
